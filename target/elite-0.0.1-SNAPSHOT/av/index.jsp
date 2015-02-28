@@ -22,16 +22,16 @@
 	ServletContext context = request.getSession().getServletContext();
 	
 	String xslPath = (isMSIE) ? "/av/xml/rentals_price_list_ie.xsl" : "/av/xml/rentals_price_list.xsl";
-	String xsl = context.getRealPath(xslPath);
-	InputStream xslStream = context.getResourceAsStream(xsl);	
+	//String xsl = context.getRealPath(xslPath);
+	InputStream xslStream = context.getResourceAsStream(xslPath);	
 	
 	String xmlPath = "/common/xml/price_list.xml";
-	String xml = context.getRealPath(xmlPath);
-	InputStream xmlStream = context.getResourceAsStream(xml);
+	//String xml = context.getRealPath(xmlPath);
+	InputStream xmlStream = context.getResourceAsStream(xmlPath);
 		
 	XMLTransform xt = new XMLTransform(xmlStream, xslStream);
-	xt.setXml(xml);
-	xt.setXsl(xsl);
+	//xt.setXml(xml);
+	//xt.setXsl(xsl);
 	String output = xt.applyTransformation();
 %>
 <%@ include file="components/page_header.jsp" %>
