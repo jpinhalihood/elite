@@ -1,0 +1,835 @@
+<?xml version="1.0"?>
+<!--<?xml-stylesheet type="text/xsl" href="price_list.xsl.xml"?>-->
+<catalog>
+    <category id="PLAYERS_MIXERS" type="equipment">
+        <name>CD/DVD Players/Mixers</name>
+        <image-path>images/CDPlayers.png</image-path>
+        <description>
+            Our professional grade, industry standard DJ CD and DVD players
+            are the perfect solution for your DJ booth solution.
+        </description>
+        <items>
+            <item id="60af2337-bb48-4977-a9e0-81b02a742fcf">
+                <type>DJ CD Player</type>
+                <name>Pioneer CDJ 1000 MK2</name>
+                <price type="rental" period="daily">50</price>
+                <price type="addon" period="daily">50</price>
+                <description>
+                    <list-item>Industry Standard DJ CD Player</list-item> 
+                </description>
+                <image-path>PioneerCDJ1000.png</image-path>
+            </item>
+            <item id="8118d174-a7ac-43b1-ba9a-c0d182e6bede">
+                <type>DVD Players</type>
+                <name>DVD Player</name>
+                <price type="rental" period="daily">0</price>
+                <price type="addon" period="daily">0</price>
+                <description>
+                    <list-item>Coming Soon</list-item>
+                </description>
+            </item>                                   
+            <item id="37cead13-0437-4bbe-ac59-98c8b15de63b">
+                <type>DJ Mixer</type>
+                <name>Rane MM8X MOJO</name>
+                <price type="rental" period="daily">30</price>
+                <price type="addon" period="daily">30</price>
+                <description>
+                    <list-item>4 Channels</list-item>
+                    <list-item>4 Phono Inputs, 8 line inputs</list-item>
+                    <list-item>2 Mic inputs</list-item>
+                    <list-item>Tone controls on each channel</list-item>
+                    <list-item>TRS Balanced outputs</list-item>
+                    <list-item>Cue/Master Headphone control</list-item>
+                </description>
+                <image-path>RaneDJMixer.JPG</image-path>
+            </item>
+            <item id="f9034672-d777-42e6-a1a9-4dc3fbdd8065">
+                <type>DJ Mixer</type>
+                <name>Pioneer DJM-600</name>
+                <price type="rental" period="daily">30</price>
+                <price type="addon" period="daily">30</price>
+                <description>
+                    <list-item>The DJM-600 is a powerful 4 channel effects mixer with such great versatility that it is one of the most popular mixers on the market.</list-item>
+                    <list-item>The DJM-600 boasts an intuitive range of Beat Effects and a multitude of channel and cross fader options.</list-item>
+                    <list-item>The mixer features an Auto BPM function as well as a broad range of beat effects that give you complete control over effect intensity.</list-item>
+                    <list-item>The mixer also works as a beat sampler, with recording and play modes. This means DJs can capture up to eight seconds of sound and play it manually, or use the Auto Loop Play to loop the sample seamlessly.</list-item>
+                    <list-item>The Stretch Play feature can be used to manipulate the tempo of the sample with the beat.</list-item>
+                    <list-item>Packed full of powerful effects and sampling functions, the highly durable DJM-600 remains a first-class choice for DJs the world over.</list-item>
+                </description>
+                <image-path>PioneerDJM600.jpg</image-path>
+            </item>
+        </items>        
+    </category>
+    <category id="ELECTRICAL_UTIL" type="equipment">
+        <name>Cables etc.</name>
+        <image-path>images/Electrical.png</image-path>
+        <description></description>
+        <items>
+            <item id="05a6dfa8-c13f-4b25-a021-c79be5548842">
+                <type>AC CABLE</type>
+                <name>50 FOOT QUAD AC 14/3 CABLE</name>
+                <price type="rental" period="daily">5</price>
+                <price type="addon" period="daily">5</price>
+                <description></description>
+                <image-path>50FootQuad14-3ACCable.JPG</image-path>
+            </item>
+            <item id="c72d04bd-5bf8-4076-895c-2f35de1737b9">
+                <type>AC CABLE</type>
+                <name>8 FOOT QUAD AC 14/3 CABLE</name>
+                <price type="rental" period="daily">2</price>
+                <price type="addon" period="daily">2</price>
+                <description></description>
+                <image-path>8FootQuadACCable.JPG</image-path>
+            </item>
+            <item id="4738ee67-4220-48e3-bc9a-eeabab03a50d">
+                <type>AC CABLE</type>
+                <name>25 FOOT SINGLE AC 14/3 CABLE</name>
+                <price type="rental" period="daily">2</price>
+                <price type="addon" period="daily">2</price>
+                <description></description>
+                <image-path></image-path>
+            </item>
+            <item id="0882b61e-6d25-4f1c-a9fc-ddd4f9befe08">
+                <type>AC CABLE</type>
+                <name>25 FOOT 4M to 8F AC LIGHTING SNAKE </name>
+                <price type="rental" period="daily">15</price>
+                <price type="addon" period="daily">15</price>
+                <description></description>
+                <image-path>4-8ACSnake.JPG</image-path>
+            </item> 
+            <item id="ae96fb1e-879a-4cc3-8c63-1070f9770bae">
+                <type>SINGLE PHASE FEEDER CABLE</type>
+                <name>100 FOOT FEEDER CABLE #8/4 AWG 50 AMP M-F RANGE PLUG</name>
+                <price type="rental" period="daily">25</price>
+                <price type="addon" period="daily">25</price>
+                <description></description>
+                <image-path>100Foot8-4ACFeeder.JPG</image-path>
+            </item>            
+            <item id="d492bb3f-659b-4952-a786-0b1d9fd8d9cd">
+                <type>SINGLE PHASE FEEDER CABLE</type>
+                <name>25 FOOT FEEDER CABLE #10/4 AWG 50 AMP M-F RANGE PLUG</name>
+                <price type="rental" period="daily">20</price>
+                <price type="addon" period="daily">20</price>
+                <description></description>
+                <image-path>25Foot10-4ACFeeder2.JPG</image-path>
+            </item> 
+            <item id="225a177f-f579-4edb-ad01-55487c86dada">
+                <type>AC DISTRO PANEL</type>
+                <name>50AMP AC DISTRO W/1X 50AMP RANGE PLUG/6X 20AMP U-GROUND</name>
+                <price type="rental" period="daily">25</price>
+                <price type="addon" period="daily">25</price>
+                <description></description>
+                <image-path>100AmpDistro.JPG</image-path>
+            </item>
+        </items>        
+    </category>
+    <category id="LIGHTS_CONTROLLERS" type="equipment">
+        <name>Lights/Controllers</name>
+        <image-path>images/LightsControllers.png</image-path>
+        <description></description>
+        <items>
+            <item id="0da9073f-6f5b-4f14-bbb5-d97d0be50f76">
+                <type>Effect Lighting</type>
+                <name>Elation UV Wash</name>
+                <price type="rental" period="daily">15</price>
+                <price type="addon" period="daily">15</price>
+                <description>
+                    <list-item>100 Watt Output</list-item>
+                    <list-item>Wide Coverage</list-item>
+                    <list-item>Glass Reflectors</list-item>
+                    <list-item>Shatter Proof Front Glass Cover</list-item>
+                    <list-item>Aluminum Case Design</list-item>
+                    <list-item>Fluorescent UV Lamp</list-item>
+                    <list-item>11 Lbs each</list-item>
+                </description>
+                <image-path>ElationUV-Wash.jpg</image-path>
+            </item>
+            <item id="0fa282a9-8adf-4c8a-b7b6-09ad79b69ec4">
+                <type>Effect Lighting</type>
+                <name>12 INCH MIRROR BALL PACKAGE</name>
+                <price type="rental" period="daily">30</price>
+                <price type="addon" period="daily">30</price>
+                <description>
+                    <list-item>1x 12-Inch Mirror Ball</list-item>
+                    <list-item>2x 30 Watt Pinspots</list-item> 
+                    <list-item>1x Tripod Stand</list-item> 
+                    <list-item>1x Mirror Ball Motor</list-item> 
+                    <list-item>1x 50 Foot Quad Ac Cable</list-item>
+                </description>
+                <image-path>12InchMirrorball_PinspotPackage.jpg</image-path>
+            </item> 
+            <item id="6540e4bc-1e9f-49e6-812d-8658167cf998">
+                <type>Effect Lighting</type>
+                <name>16 INCH MIRROR BALL PACKAGE</name>
+                <price type="rental" period="daily">40</price>
+                <price type="addon" period="daily">40</price>
+                <description>
+                    <list-item>1x 16-Inch Mirror Ball</list-item>
+                    <list-item>2x 30 Watt Pinspots</list-item> 
+                    <list-item>1x Tripod Stand</list-item> 
+                    <list-item>1x Mirror Ball Motor</list-item> 
+                    <list-item>1x 50 Foot Quad Ac Cable</list-item>
+                </description>
+                <image-path>12InchMirrorball_PinspotPackage.jpg</image-path>
+            </item>
+            <item id="5c6ad4b1-ef35-4bf8-baf7-727a36133cc3">
+                <type>Effect Lighting</type>
+                <name>Pinspot</name>
+                <price type="rental" period="daily">5</price>
+                <price type="addon" period="daily">5</price>
+                <description>
+                    <list-item>Par 36 ul with 6v 30w 4515 lamp with screw cap</list-item>
+                </description>
+                <image-path>Pinspot30watt.jpg</image-path>
+            </item>
+            <item id="439681af-1622-4419-9502-21458b031e7e">
+                <type>Effect Lighting</type>
+                <name>MARTIN EF1 EFFECT LIGHT</name>
+                <price type="rental" period="daily">15</price>
+                <price type="addon" period="daily">15</price>
+                <description>
+                    <list-item>100 W Halogen Lamp</list-item>
+                    <list-item>800 Hour Lamp Included</list-item>
+                    <list-item>Eight Metal Gobos With Colors</list-item>
+                    <list-item>Manual Focus</list-item>
+                    <list-item>Front Surface Color Coated Mirrors On Reflector Dish Giving 18 Brilliant Beams Of Light</list-item>
+                    <list-item>All Major Safety Approvals Ce, Etl And Cetl</list-item>
+                    <list-item>Rigorously Tested For Total Reliability</list-item>
+                    <list-item>Auto Or Music Triggered</list-item>
+                    <list-item>Continuous Operation - No Cool Down Time Needed</list-item>   
+                </description>
+                <image-path>MartinManiaEF1.jpg</image-path>
+            </item>
+            <item id="7ba5a88c-3ac1-42f5-8df4-326ea68a03b4">
+                <type>Effect Lighting</type>
+                <name>MEGA FLASH STROBE LIGHT</name>
+                <price type="rental" period="daily">15</price>
+                <price type="addon" period="daily">15</price>
+                <description>
+                    <list-item>Powerful 800w Dmx Strobe Light</list-item>
+                    <list-item>Compact Design</list-item> 
+                    <list-item>Dmx-512 Protocol</list-item> 
+                    <list-item>2 DMX Channels For Speed And Dimming</list-item> 
+                    <list-item>Speed And Dimmer Control Knob On Rear Of Unit</list-item> 
+                    <list-item>0-100% Dimming Control</list-item> 
+                    <list-item>Sound Active With Built-In Microphone</list-item>
+                    <list-item>Lamp: ZB-800, 800w</list-item> 
+                    <list-item>Dimensions (Lxwxh): 4&quot; X 15.5&quot; X 8.5&quot; / 102 X 394 X 216mm</list-item> 
+                    <list-item>Weight: 5 Lbs. / 2.2kgs</list-item>  
+                </description>
+                <image-path>AmericanDJMega-Flash-DMX.jpg</image-path>
+            </item>
+            <item id="c31f1c89-be07-416b-bda8-20452c10b937">
+                <type>Intelligent Lighting</type>
+                <name>MARTIN SCX 500 SCANNER</name>
+                <price type="rental" period="daily">20</price>
+                <price type="addon" period="daily">20</price>
+                <description>
+                    <list-item>150 W Halogen Lamp</list-item>
+                    <list-item>500 Hour Lamp Included</list-item>
+                    <list-item>15 Solid Colors Plus 5 Multi Colors</list-item>
+                    <list-item>Manual Focus</list-item>
+                    <list-item>15 Gobos Plus Blackout</list-item>
+                    <list-item>Strobe Effect With Gobo Wheel</list-item>
+                    <list-item>High-Speed Mirror</list-item>
+                    <list-item>All Major Safety Approvals Ce, Etl And Cetl</list-item>
+                    <list-item>Rigorously Tested For Total Reliability</list-item>
+                    <list-item>DMX, Stand Alone (Music Or Auto-Trig) And Master/Slave Function</list-item>
+                    <list-item>Continuous Operation - No Cool Down Time Needed</list-item>
+                    <list-item>12 Pre-Programmed Macros For Fast Start-Up</list-item>
+                </description>
+                <image-path>MartinManiaSCX500Scanner.jpg</image-path>
+            </item>
+            <item id="3246c145-9734-4783-9538-72e7c23badd9">
+                <type>Strobe Controller</type>
+                <name>S-4A/DMX STROBE LIGHT CONTROLLER</name>
+                <price type="rental" period="daily">10</price>
+                <price type="addon" period="daily">10</price>
+                <description>
+                    <list-item>4 Channel Strobe Controller Now With DMX-512 Protocol</list-item>
+                    <list-item>Control Up To 24 Super Strobe, S-100a And Snap Shots</list-item>
+                    <list-item>8 Built-In Programmed Chase Patterns</list-item>
+                    <list-item>Sound Active</list-item>
+                    <list-item>Blackout</list-item>
+                    <list-item>Speed Control</list-item>
+                    <list-item>Flash Control</list-item>
+                    <list-item>An Ideal Large Strobe System Controller</list-item>
+                    <list-item>1/4&quot; Jacks</list-item>
+                    <list-item>Dimensions: 19&quot; X 1.75&quot; X 4.5&quot; 19&quot; Rack Mount - 1 Space</list-item>
+                    <list-item>Weight: 4.5 Lbs</list-item>
+                    <list-item>120v (9 Volt A/C 500 Ma) Transformer PSU</list-item>
+                </description>
+                <image-path>S-4A-DMXStrobeController.jpg</image-path>
+            </item>
+            <item id="a0dd6df7-28a7-4838-a4cd-9489c3d2f0d2">
+                <type>DMX CONTROLLER</type>
+                <name>MARTIN 2510 CONTROLLER</name>
+                <price type="rental" period="daily">10</price>
+                <price type="addon" period="daily">10</price>
+                <description>
+                    <list-item>Record Up To 512 DMX Channels From Light Jockey</list-item>
+                    <list-item>Easy Playback With Manual Selection Of Sequences</list-item>
+                    <list-item>Up To 10 Sub-Lists Of Sequences</list-item>
+                    <list-item>Music Input For Triggering Scenes</list-item>
+                    <list-item>Blackout Function</list-item>
+                </description>
+                <image-path>Martin2510Controller.jpg</image-path>
+            </item>
+            <item id="f6da6922-bf1d-4523-a696-bdaec3850817">
+                <type>ANALOG CONTROLLER</type>
+                <name>PC – 8 AC SWITCHER</name>
+                <price type="rental" period="daily">10</price>
+                <price type="addon" period="daily">10</price>
+                <description>
+                    <list-item>8 Switchable AC Channels</list-item>
+                </description>
+            </item>
+        </items>        
+    </category>
+    <category id="SPECIAL_FX" type="equipment">
+        <name>Special Effects</name>
+        <image-path>images/SpEffexts.png</image-path>
+        <description></description>
+        <items>
+            <item id="98b420b1-e047-4d6c-a2f4-13cefbc2b795">
+                <type>Bubble Machine</type>
+                <name>Bubble Blast</name>
+                <price type="rental" period="daily">50</price>
+                <price type="addon" period="daily">50</price>
+                <description>
+                    <list-item>Massive Dual Fan Output Technology Produces 100's Of Bubbles Per Minute</list-item> 
+                    <list-item>Secondary Dual Fan Lift System Forces Bubbles To Rise High Into The Air</list-item> 
+                    <list-item>Easy Top-Load Bubble Liquid Filling Container</list-item> 
+                    <list-item>Bubble Liquid Drainage Valve System Allows For Easy Clean-Up</list-item> 
+                    <list-item>Uses Most Types Of Bubble Liquid</list-item> 
+                    <list-item>On/Off Switch On Rear On Unit</list-item> 
+                    <list-item>Wheels And Dual Handles For Easy Transport</list-item> 
+                    <list-item>Includes Remote With Timer Control</list-item> 
+                    <list-item>Dimensions (Lxwxh): 18.25 X 15.5 X 18.5 / 464x394x470 Mm</list-item> 
+                    <list-item>Weight: 32 Lbs / 14.6 Kgs</list-item>
+                    <list-item>Output: 20ml/Min</list-item>
+                    <list-item>Tank Capacity: 1.8 Liter</list-item> 
+                    <list-item>Fluid Consumption Rate: 50  Min. / Liter (100% Output)</list-item>
+                    <list-item>Timer remote control for the american dj bu-350 bubble machine</list-item> 
+                    <list-item>Time and duration adjustment knobs control the time (interval between blasts) and the duration (how long bubble flow lasts)</list-item> 
+                    <list-item>Time: 3 seconds to 1 minute</list-item> 
+                    <list-item>Duration: 3 seconds to 1.5 minutes</list-item> 
+                    <list-item>Timer and constant modes buttons: timer allows the user to set time and duration controls, while constant provides a steady flow of bubbles, overriding the timer controls</list-item> 
+                    <list-item>Connection: 1/4&quot; mono jack</list-item>
+                </description>
+                <image-path>AmericanDJBubble-Blast.jpg</image-path>
+                <image-path>BubbleBlastControllorBT350.jpg</image-path>
+            </item>
+            <item id="117b11f3-ae32-43aa-bc9d-264b5fa9e292">
+                <type>Hazer</type>
+                <name>Antari X-310 Hazer</name>
+                <price type="rental" period="daily">50</price>
+                <price type="addon" period="daily">50</price>
+                <description>
+                    <list-item>Heater: 1,000w</list-item>
+                    <list-item>Output: 3,500 Cu.Ft / Min.</list-item>
+                    <list-item>Heat Up Time: 12 Min.</list-item>
+                    <list-item>Liquid Consumption Rate: 45 Min. / Liter (100%) 2 Hrs. / Liter (30%)</list-item>
+                    <list-item>Tank Capacity: 2.5 Liter</list-item>
+                    <list-item>Control Module Included: X-10 Timer Control Module</list-item>
+                    <list-item>Optional Control Module: X-20ii Dmx Control Module, X-30 Wireless Control Module</list-item>
+                    <list-item>Optional Accessories: Flight Case</list-item>
+                    <list-item>Weight: 55lbs. / 20.5 Kg</list-item>
+                    <list-item>Dimensions (Lxwxh): 25&quot; X 11&quot; X 11&quot; / 635 X 275 X 281mm</list-item>
+                </description>
+                <image-path>Antarix310iiHazer.jpg</image-path>
+            </item>                                   
+        </items>        
+    </category>
+    <category id="SPEAKERS" type="equipment">
+        <name>Speakers</name>
+        <image-path>images/Speakers.png</image-path>
+        <description></description>
+        <items>
+            <!--
+            <item id="46b5d5e8-9826-4cd6-aa18-4631ba478efe">
+                <type>FULL RANGE POWERED SPEAKERS </type>
+                <name>KW 122 QSC POWERED SPEAKERS (PAIR)</name>
+                <price type="rental" period="daily">40</price>
+                <price type="addon" period="daily">40</price>
+                <description>
+                    <list-item>K Series Performance In A Lightweight, Birch Design</list-item>
+                    <list-item>1000 Watt Class D Power Modules In All Models (2 X 500 W Continuous)</list-item>
+                    <list-item>Extensive DSP Featuring Deep&#8482; And Intrinsic Correction&#8482; Enhances System Performance</list-item>
+                    <list-item>DMT&#8482; (Directivity Matched Transition) Ensures Uniform Coverage Across The Entire Sound Field</list-item>
+                    <list-item>Rugged, Texture-Painted Birch Enclosures</list-item>
+                    <list-item>Four-Position Mic/Line Gain (Full-Range Models)</list-item>
+                    <list-item>Tour-Grade 16 Gauge Steel Grilles</list-item>
+                    <list-item>Comfortable Ergonomic Handles</list-item>
+                    <list-item>35 MM Pole Sockets With Tilt-Direct&#8482; On KW122 And KW152, Standard (Non-Tilt) Pole Socket On KW153</list-item>
+                    <list-item>M10 Rigging Points For Suspended Installation (Full-Range Models)</list-item>
+                    <list-item>KW122 Also Functions As Stage Monitor</list-item>
+                </description>
+                <image-path>QSCKW122PoweredSpeaker.jpg</image-path>
+            </item>
+            -->
+            <item id="cfd0b6b4-e849-46a1-b666-c940e3ce16fa">
+                <type>FULL RANGE POWERED SPEAKERS</type>
+                <name>ELITE EF 500P POWERED SPEAKER (PAIR)</name>
+                <price type="rental" period="daily">40</price>
+                <price type="addon" period="daily">40</price>
+                <description>
+                    <list-item>Strong plywood cabinet patterned after our proven EF508</list-item> 
+                    <list-item>Ultra-clear reproduction throughout bandwidth</list-item> 
+                    <list-item>Lightweight, high efficiency, high tech, 800 Watt Bi-amped power module</list-item> 
+                    <list-item>Proven TX style processing and component protection</list-item> 
+                    <list-item>True 2&quot; Titanium diaphragm horn driver</list-item> 
+                    <list-item>Proven low distortion / high power handling 15&quot; woofer</list-item> 
+                    <list-item>+/- 6dB input trim control for individual cabinet level adjustment</list-item> 
+                    <list-item>XLR and TRS inputs / outputs for easy connection and looping </list-item>
+                    <list-item>Multi-input source mixer for direct inputs</list-item> 
+                    <list-item>Direct microphone input with level control</list-item> 
+                    <list-item>Two way overall EQ controls </list-item>
+                    <list-item>Integrated flying hardware (3/8&quot; threaded holes)</list-item> 
+                    <list-item>Tough, full length metal grille</list-item> 
+                    <list-item>Recessed Mixer panels</list-item>
+                </description>
+                <image-path>YorkvilleEF500P.jpg</image-path>
+            </item>
+            <!--
+            <item id="95eaa591-86ed-4621-9021-6ed364b13e8f">
+                <type>POWERED SUBWOOFER</type>
+                <name>KW181 POWERED SUBWOOFER (PAIR)</name>
+                <price type="rental" period="daily">40</price>
+                <price type="addon" period="daily">40</price>
+                <description>
+                    <list-item>18&quot; Subwoofer Constructed Of Premium Birch</list-item>  
+                    <list-item>1000 Watt Class D Power Module And On-Board DSP</list-item>  
+                    <list-item>35 Mm Pole Sockets</list-item>  
+                    <list-item>Tour-Grade 16 Gauge Steel Grilles</list-item> 
+                    <list-item>Comfortable Ergonomic Handles</list-item> 
+                    <list-item>Rugged, Texture-Painted Birch Enclosures</list-item> 
+                </description>
+                <image-path>QSCKW181PoweredSubs.jpg</image-path>
+            </item>
+            -->
+            <item id="eca26ef2-a298-4893-ad5b-76ee5d687734">
+                <type>POWERED SUBWOOFER</type>
+                <name>ELITE LS 800P POWERED SUBWOOFER (PAIR)</name>
+                <price type="rental" period="daily">40</price>
+                <price type="addon" period="daily">40</price>
+                <description>
+                    <list-item>Integrated 1500 Watt Amplifier</list-item> 
+                    <list-item>18-inch Neodymium Speaker</list-item> 
+                    <list-item>High Performance Mid-Sized Subwoofer Design</list-item> 
+                    <list-item>45Hz - 150Hz with Adjustable HF Roll-Off</list-item> 
+                    <list-item>45Hz - 90Hz Variable Boost Frequency</list-item> 
+                    <list-item>Paralleled XLR and 1/4-inch Selectable Line or Speaker Level Inputs</list-item> 
+                    <list-item>Excursion, Peak and Thermal Woofer Protection</list-item> 
+                    <list-item>Integrated All Metal Speaker Pole Mount Adaptor</list-item> 
+                    <list-item>Solid 5/8-inch (15mm) Birch Plywood Construction</list-item> 
+                </description>
+                <image-path>EliteLS800pSubwoofer.jpg</image-path>
+            </item>                                 
+        </items>        
+    </category> 
+    <category id="STANDS_ACCESSORIES" type="equipment">
+        <name>Stands</name>
+        <image-path>images/Stands.png</image-path>
+        <description></description>
+        <items>
+            <item id="c339afc3-01a2-4c45-8b0d-f0a9c969ad33">
+                <type>LIGHTING STANDS</type>
+                <name>LIGHT DUTY CRANK UP LIGHT STAND WITH T-BAR</name>
+                <price type="rental" period="daily">7</price>
+                <price type="addon" period="daily">7</price>
+                <description>
+                    <list-item>Steel Tripod Stand Cranks Up To 10 Feet</list-item>
+                    <list-item>Weight Capacity: 70 Lbs./32 Kg</list-item> 
+                    <list-item>Stand Weight: 28 Lbs./12.5 Kg</list-item>
+                </description>
+                <image-path>LightDutyCrankUpLightingStand.jpg</image-path>
+            </item> 
+            <item id="a3b825b0-2276-4a4c-8018-cab032d60c38">
+                <type>LIGHTING STANDS</type>
+                <name>MANFROTTO 087N CRANK UP LIGHTING STAND WITH T-BAR</name>
+                <price type="rental" period="daily">30</price>
+                <price type="addon" period="daily">30</price>
+                <description>
+                    <list-item>Black Steel Stand With Geared Column</list-item> 
+                    <list-item>2 Risers Extend Simultaneously At An Elevation Of 1.75 Inches Per Handle Turn</list-item> 
+                    <list-item>Safety Cable Ensures Simultaneous Retrieval Of All Sections</list-item>
+                    <list-item>3 Sections</list-item>
+                    <list-item>2 Risers</list-item> 
+                    <list-item>1 Levelling Leg</list-item>
+                </description>
+                <image-path>Manfrotto87CrankUpStand.jpg</image-path>
+            </item>
+            <item id="2a1d12b3-eca3-4b33-9eca-298573f65970">
+                <type>SPEAKER STANDS</type>
+                <name>K&amp;M 214/6 Speaker Stands (Pair)</name>
+                <price type="rental" period="daily">10</price>
+                <price type="addon" period="daily">10</price>
+                <description></description>
+                <image-path>KMSpeakerStand.jpg</image-path>
+            </item>
+            <item id="9929be28-6b7e-423c-bfc2-1c849e1b71e4">
+                <type>MICROPHONE STANDS</type>
+                <name>Tripod Boom Mic Stand (Chrome)</name>
+                <price type="rental" period="daily">5</price>
+                <price type="addon" period="daily">5</price>
+                <description></description>
+                <image-path>MicStand.jpg</image-path>
+            </item>                          
+        </items>        
+    </category>
+    <category id="TRUSSING" type="equipment">
+        <name>Trussing</name>
+        <image-path>images/Truss.png</image-path>
+        <description></description>
+        <items>
+            <item id="95961a34-4f58-4b9e-9ea4-0b9094bf3151">
+                <type>STRIAGHT LENGTHS OF TRUSS</type>
+                <name>VERSA TRUSS 10 FOOT LENGTH BOX TRUSS</name>
+                <price type="rental" period="daily">20</price>
+                <price type="addon" period="daily">20</price>
+                <description></description>
+                <image-path>TRUSSSQUARE.jpg</image-path>
+            </item> 
+             <item id="9e637e62-90ae-45ee-a97c-85138dccac83">
+                <type>STRIAGHT LENGTHS OF TRUSS</type>
+                <name>VERSA TRUSS 8 FOOT LENGTH BOX TRUSS </name>
+                <price type="rental" period="daily">18</price>
+                <price type="addon" period="daily">18</price>
+                <description></description>
+                <image-path>TRUSSSQUARE.jpg</image-path>
+            </item>
+             <item id="0e999b7b-0024-43fa-b659-e62be4e5425a">
+                <type>TRUSS ACCESSORIES</type>
+                <name>TRUSS ADAPTOR (BOX TRUSS)</name>
+                <price type="rental" period="daily">5</price>
+                <price type="addon" period="daily">5</price>
+                <description></description>
+                <image-path>WorkTrussAdaptor.JPG</image-path>
+            </item>
+             <item id="98078e7b-2050-4d12-8c1d-2a61c8074d38">
+                <type>TRUSS ACCESSORIES</type>
+                <name>3 FOOT X 3 FOOT BASE PLATES</name>
+                <price type="rental" period="daily">10</price>
+                <price type="addon" period="daily">10</price>
+                <description></description>
+                <image-path></image-path>
+            </item>                                                               
+        </items>        
+    </category>
+    <category id="VIDEO" type="equipment">
+        <name>Video</name>
+        <image-path>images/Video.png</image-path>
+        <description></description>
+        <items>
+            <item id="77b33243-f115-4a6a-afe2-06077799cb0f">
+                <type>VIDEO SCREENS</type>
+                <name>FAST FOLD SCREEN</name>
+                <price type="rental" period="daily">200</price>
+                <price type="addon" period="daily">200</price>
+                <description>
+                    <list-item>The Fastfold Screens Can Be Set-Up For Front Or Rear Projection. These Screens Are Designed To Accomodate Large Venue Projection Needs. Complete Velour Dress Kits Are Available For All Fastfold Screens.</list-item> 
+                    <list-item>Available in 9 Foot x 12 Foot (Front &amp; Rear Projection Available)</list-item>
+                </description>
+                <image-path>FastfoldScreen.jpg</image-path>
+            </item>
+            <item id="a704287e-8adc-485b-b294-3540b2eed183">
+                <type>VIDEO SCREENS</type>
+                <name>FAST FOLD SCREEN w/FULL DRESS KIT</name>
+                <price type="rental" period="daily">275</price>
+                <price type="addon" period="daily">275</price>
+                <description>
+                    <list-item>The Fastfold Screens Can Be Set-Up For Front Or Rear Projection. These Screens Are Designed To Accomodate Large Venue Projection Needs. Complete Velour Dress Kits Are Available For All Fastfold Screens.</list-item> 
+                    <list-item>Available in 9 Foot x 12 Foot (Front &amp; Rear Projection Available)</list-item>
+                </description>
+                <image-path>FastFoldScreenWDressKit.png</image-path>
+            </item> 
+            <item id="cc7a3ff2-8537-4be9-a949-1696d3d5c914">
+                <type>TRI POD SCREENS</type>
+                <name>70&quot; TRI POD SCREEN</name>
+                <price type="rental" period="daily">50</price>
+                <price type="addon" period="daily">50</price>
+                <description>
+                    <list-item>A professional solution for any projection application or situation</list-item>
+                    <list-item>Portable Screen That Sets Up In Seconds!</list-item>
+                </description>
+                <image-path>Tripod-Screen.gif</image-path>
+            </item>
+            <item id="c41ee985-898d-4455-aa80-81368a404ad8">
+                <type>TRI POD SCREENS</type>
+                <name>84&quot; TRI POD SCREEN</name>
+                <price type="rental" period="daily">60</price>
+                <price type="addon" period="daily">60</price>
+                <description>
+                    <list-item>A professional solution for any projection application or situation</list-item>
+                    <list-item>Portable Screen That Sets Up In Seconds!</list-item>
+                </description>
+                <image-path>Tripod-Screen.gif</image-path>
+            </item>
+            <item id="0e355b43-367f-41f5-ae08-1ba50aba2416">
+                <type>TRI POD SCREENS</type>
+                <name>96&quot; TRI POD SCREEN</name>
+                <price type="rental" period="daily">70</price>
+                <price type="addon" period="daily">70</price>
+                <description>
+                    <list-item>A professional solution for any projection application or situation</list-item>
+                    <list-item>Portable Screen That Sets Up In Seconds!</list-item>
+                </description>
+                <image-path>Tripod-Screen.gif</image-path>
+            </item> 
+            <item id="559ffabd-75bd-4c6b-a894-b060d39811d0">
+                <type>PULL UP SCREENS</type>
+                <name>60&quot; PULL UP SCREEN</name>
+                <price type="rental" period="daily">50</price>
+                <price type="addon" period="daily">50</price>
+                <description>
+                    <list-item>Portable Floorstanding Screen Is Perfect For Traveling or Business Presentations</list-item> 
+                    <list-item>Portable Screen That Sets Up In Seconds!</list-item>
+                </description>
+                <image-path>PullUpVideoScreen.jpg</image-path>
+            </item> 
+            <item id="cdebaf09-6606-4808-855b-ac0f32ee611e">
+                <type>PULL UP SCREENS</type>
+                <name>80&quot; PULL UP SCREEN</name>
+                <price type="rental" period="daily">60</price>
+                <price type="addon" period="daily">60</price>
+                <description>
+                    <list-item>Portable Floorstanding Screen Is Perfect For Traveling or Business Presentations</list-item> 
+                    <list-item>Portable Screen That Sets Up In Seconds!</list-item>
+                </description>
+                <image-path>PullUpVideoScreen.jpg</image-path>
+            </item> 
+            <item id="2530596b-fdc7-4105-9264-d0bd730cea39">
+                <type>PULL UP SCREENS</type>
+                <name>100&quot; PULL UP SCREEN</name>
+                <price type="rental" period="daily">70</price>
+                <price type="addon" period="daily">70</price>
+                <description>
+                    <list-item>Portable Floorstanding Screen Is Perfect For Traveling or Business Presentations</list-item> 
+                    <list-item>Portable Screen That Sets Up In Seconds!</list-item>
+                </description>
+                <image-path>PullUpVideoScreen.jpg</image-path>
+            </item> 
+            <item id="88764ce7-36ca-420f-a64e-9f6589bd0491">
+                <type>VIDEO PROJECTOR</type>
+                <name>SHARP XR10 2000 ANIS LUMENS</name>
+                <price type="rental" period="daily">100</price>
+                <price type="addon" period="daily">100</price>
+                <description>
+                    <list-item>High Image Quality</list-item>
+                    <list-item>Texas Instruments DLP&#8482; technology - provides high image quality and reliability</list-item>
+                    <list-item>Advanced Video Circuitry</list-item>
+                    <list-item>TrueVision&#8482; (DDP2000) advanced video</list-item>
+                    <list-item>circuitry optimizes performance</list-item>
+                    <list-item>Short Throw Zoom Lens</list-item>
+                    <list-item>Short Throw Zoom Lens - project large</list-item>
+                    <list-item>images from a &quot;short&quot; throw distance</list-item>
+                    <list-item>High Brightness</list-item>
+                    <list-item>XR-10S  - 2000 ANSI lumens (1750 ANSI Lumens in &quot;eco&quot; mode)</list-item>-->
+                </description>
+                <image-path>SharpXR-10SVideoProjector.jpg</image-path>
+            </item>                                                                                                                                    
+        </items>        
+    </category>
+    <category id="DJ_ADDONS" type="packages">
+        <name>DJ PACKAGE ADD-ONS</name>
+        <image-path></image-path>
+        <description></description>
+        <items>
+            <item id="19fa4069-1d4e-4dfb-8bd2-309af477cf34">
+                <type>DJ Package</type>
+                <name>Basic DJ Package</name>
+                <price type="rental" period="daily">499.00</price>
+                <price type="addon" period="daily">499.00</price>
+                <description>
+                    <list-item>Professional Experienced Disc Jockey (4hrs maximum)</list-item>
+                    <list-item>High Quality Commercial Sound System (Suitable for groups up to 150); Two full range powered speakers on tripod stands</list-item>
+                    <list-item>Music Library - Extensive AVLA Licensed Digital Music Library</list-item>
+                    <list-item>All Request All Night Format</list-item>
+                    <list-item>Computerized Music Listings - Easily Request Your Favorite Songs</list-item>
+                    <list-item>Convenient Set-Up - Setup and Sound Check Is Performed Prior to Guest Arrival to Avoid Interruption</list-item>
+                </description>
+                <image-path></image-path>
+            </item>
+            <item id="d2c4dbb7-fcf3-4cda-921c-88fbe51c2c19">
+                <type>LIGHTING</type>
+                <name>Option # 1 - Basic Lighting System</name>
+                <price type="rental" period="daily">50.00</price>
+                <price type="addon" period="daily">50.00</price>
+                <description>
+                    <list-item>Two Multi Colored Special Effect Lights mounted on a Tripod Stand.</list-item>
+                    <list-item>These lights project multi colored patterns on the dance floor and move to the beat of the music.</list-item>
+                </description>
+                <image-path></image-path>
+            </item>
+            <item id="33efe673-6034-42a6-b5d7-03d878f29ce8">
+                <type>LIGHTING</type>
+                <name>Option # 2 - Basic Lighting System PLUS</name>
+                <price type="rental" period="daily">75.00</price>
+                <price type="addon" period="daily">75.00</price>
+                <description>
+                    <list-item>Two Multi Colored Special Effect Lights mounted on a Tripod Stand.</list-item>
+                    <list-item>These lights project multi colored patterns on the dance floor and move to the beat of the music.</list-item>
+                    <list-item>One Mirror ball and two pin spots to add a romantic touch during the slow songs.</list-item>
+                </description>
+                <image-path></image-path>
+            </item>
+            <item id="b89d3b7e-a142-4d5b-a792-4a8274f89c9a">
+                <type>LIGHTING</type>
+                <name>Option # 3 - Deluxe Lighting System</name>
+                <price type="rental" period="daily">400.00</price>
+                <price type="addon" period="daily">400.00</price>
+                <description>
+                    <list-item>Four Intelligent Lighting Fixtures that project multi colored shapes on the dance floor and around the room to the beat of the music.</list-item>
+                    <list-item>Two Multi Colored Special Effect Lights that project multi colored patterns on the dance floor and move to the beat of the music.</list-item>
+                    <list-item>One Mirror ball and two pin spots.</list-item>
+                    <list-item>All lighting fixtures are mounted on truss and tripod stands for a professional high-end look.</list-item>
+                </description>
+                <image-path></image-path>
+            </item>
+            <item id="3584cdb0-1b6a-4258-ba7c-fa61f040d084">
+                <type>LIGHTING</type>
+                <name>Option # 4 - Special Effects</name>
+                <price type="rental" period="daily">50.00</price>
+                <price type="addon" period="daily">50.00</price>
+                <description>
+                    <list-item>Add a special effect to your event:</list-item>
+                    <list-item>Bubble Machine</list-item>
+                    <list-item>Fog Machine</list-item>
+                    <list-item>Haze Machine</list-item>
+                    <list-item>Snow Machine</list-item> 
+                    <list-item>(Please check with the venue to ensure the effect is permitted)</list-item>
+                </description>
+                <image-path></image-path>
+            </item>
+            <item id="0c757b45-51aa-4fbf-a041-79df698b7544">
+                <type>AUDIO</type>
+                <name>Option # 5 - Deluxe Sound System</name>
+                <price type="rental" period="daily">50.00</price>
+                <price type="addon" period="daily">50.00</price>
+                <description>
+                    <list-item>High Quality Commercial 4000 watt Sound System suitable for large rooms and groups of 200 plus.</list-item>
+                    <list-item>This sound system will produce a crystal clear sound to large groups.</list-item>
+                    <list-item>Two full range powered speakers on tripod stands with powered subwoofer.</list-item>
+                </description>
+                <image-path></image-path>
+            </item>
+            <item id="17e527ab-332a-423b-871e-de859e020fea">
+                <type>AUDIO</type>
+                <name>Option # 6 - Deluxe Sound System PLUS</name>
+                <price type="rental" period="daily">200.00</price>
+                <price type="addon" period="daily">200.00</price>
+                <description>
+                    <list-item>High Quality Commercial 8000 watt Sound System suitable for large rooms and groups of 400 plus. </list-item>
+                    <list-item>This sound system will produce a crystal clear sound to large groups.</list-item>
+                    <list-item>Four full range powered speakers on tripod stands with four powered subwoofers.</list-item>
+                </description>
+                <image-path></image-path>
+            </item>
+            <item id="56b0eb30-5132-40f8-97a6-997b87d89362">
+                <type>AUDIO</type>
+                <name>Option # 7 - Podium Microphone</name>
+                <price type="rental" period="daily">30.00</price>
+                <price type="addon" period="daily">30.00</price>
+                <description>
+                    <list-item>Ensure your guests can hear speeches &amp; toast during the meal with a wired microphone on a stand</list-item>
+                </description>
+                <image-path></image-path>
+            </item>
+            <item id="28575a6c-253b-49b1-87e9-0dd7339e0435">
+                <type>AUDIO</type>
+                <name>Option # 8 - Wireless Microphone</name>
+                <price type="rental" period="daily">50.00</price>
+                <price type="addon" period="daily">50.00</price>
+                <description>
+                    <list-item>A wireless microphone will allow your guests to move freely around the room while doing a toast or speech</list-item>
+                </description>
+                <image-path></image-path>
+            </item>
+            <item id="c6731015-84d6-47d2-a636-5e0ba6ffa79c">
+                <type>AUDIO</type>
+                <name>Option # 9 - Background/Dinner Music</name>
+                <price type="rental" period="daily">50.00</price>
+                <price type="addon" period="daily">50.00</price>
+                <description>
+                    <list-item>Two hours of Instrumental music at an easy listening level to add atmosphere</list-item>
+                </description>
+                <image-path></image-path>
+            </item>
+            <item id="c8bbb694-bee5-4d80-b666-e191628a3203">
+                <type>AUDIO</type>
+                <name>Option # 10 - Additional DJ Time</name>
+                <price type="rental" period="hourly">50.00</price>
+                <price type="addon" period="hourly">50.00</price>
+                <description>
+                    <list-item>Add extra dancing time to your event. The DJ will keep the party going as long as required to satisfy your guests</list-item>
+                </description>
+                <image-path></image-path>
+            </item>
+            <item id="bedb2c4e-2415-47e3-82f3-b5f0c8376881">
+                <type>AUDIO</type>
+                <name>Option # 11 - Ceremony Sound System</name>
+                <price type="rental" period="daily">200.00</price>
+                <price type="addon" period="daily">200.00</price>
+                <description>
+                    <list-item>Our ceremony sound package will ensure everyone can hear the ceremony. The sound system can be used both indoors or out.</list-item>
+                    <list-item>Package Includes:</list-item>
+                    <list-item>Two Powered Speakers on tripod stands</list-item>
+                    <list-item>One wireless microphone</list-item>
+                    <list-item>CD Player</list-item>
+                    <list-item>MP3 Player or Laptop Computer Connections</list-item>
+                    <list-item>Wired microphones and stands for musicians</list-item>
+                    <list-item>Connections for instruments</list-item>
+                </description>
+                <image-path></image-path>
+            </item>
+            <item id="fda1e6ed-89bd-4944-b98c-17a164588391">
+                <type>VIDEO</type>
+                <name>Option # 12 - Projector and Tripod Screen with DVD Player</name>
+                <price type="rental" period="daily">200.00</price>
+                <price type="addon" period="daily">200.00</price>
+                <description>
+                    <list-item>Add a personal touch to your event with a power point or slide show of your favorite photos or videos.</list-item>
+                    <list-item>We provide a Video Projector, Screen, DVD Player, Set Up, Tear Down and Basic Tech Support.</list-item>
+                    <list-item>(Laptops can also be connected).</list-item>
+                </description>
+                <image-path></image-path>
+            </item>
+            <item id="a81105e5-161d-4df4-bdf6-eda310319c6f">
+                <type>VIDEO</type>
+                <name>Option # 13 - Additional Projector and Tripod Screen</name>
+                <price type="rental" period="daily">100.00</price>
+                <price type="addon" period="daily">100.00</price>
+                <description>
+                    <list-item>This option is an add-on to OPTION #13 (Projector and Tripod Screen with DVD Player).</list-item>
+                    <list-item>If the venue requires more than one screen to ensure everyone can see your presentation, you can add additional screens and projectors to the DVD or laptop.</list-item>
+                </description>
+                <image-path></image-path>
+            </item>
+            <item id="17b73c7c-9c2e-42b7-a827-f498232e7d11">
+                <type>VIDEO</type>
+                <name>Option # 14 - Video Disc Jockey</name>
+                <price type="rental" period="daily">499.00</price>
+                <price type="addon" period="daily">499.00</price>
+                <description>
+                    <list-item>Add video to your event with the Video Disc Jockey Package.</list-item>
+                    <list-item>All your favorite music videos played on one giant screen for everyone to enjoy.</list-item>
+                    <list-item>Our large DVD library has videos from the 70&quot;s, 80&quot;s, 90&quot;s &amp; all of todays hit music.</list-item>
+                </description>
+                <image-path></image-path>
+            </item>
+            <item id="677aff08-2509-4bec-b064-a5fe407bafbf">
+                <type>VIDEO</type>
+                <name>Option # 15 - Video Disc Jockey PLUS</name>
+                <price type="rental" period="daily">699.00</price>
+                <price type="addon" period="daily">699.00</price>
+                <description>
+                    <list-item>Add video to your event with the Video Disc Jockey Package.</list-item>
+                    <list-item>All your favorite music videos played on TWO giant screen for everyone to enjoy.</list-item>
+                    <list-item>Our large DVD library has videos from the 70&quot;s, 80&quot;s, 90&quot;s &amp; all of todays hit music.</list-item>
+                </description>
+                <image-path></image-path>
+            </item>
+        </items>
+    </category>
+</catalog>

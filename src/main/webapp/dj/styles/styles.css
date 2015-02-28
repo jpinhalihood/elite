@@ -1,0 +1,129 @@
+/* 
+    Document   : styles.css
+    Created on : Sep 11, 2010, 4:44:19 PM
+    Author     : jeff
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+#columnContainer {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    
+    width: 100%;
+
+    border-style: none;
+    border-width: 1px 1px 1px 1px;
+    border-color: yellow;  
+}
+
+.contentColumn1, .contentColumn2, .contentColumn3 {
+    position: absolute;
+    width: 25%;
+    height: 380px;
+    /*height: 100%;*/
+
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #555;
+
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+
+    padding: 10px;
+
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#222222');
+
+
+    background: -webkit-gradient(linear, left top, right bottom,
+            color-stop(0, #000000),
+            color-stop(1, #222222));
+
+    background: -moz-linear-gradient(left top,  #000000,  #222222);
+
+}
+
+.contentColumn1 {
+    left: 0%;
+    top: 0%;
+}
+
+.contentColumn2 {
+    left: 36%;
+    top: 0%;
+}
+
+.contentColumn3 {
+    left: 72%;
+    top: 0%;
+}
+
+.contentColumn1 img, .contentColumn2 img, .contentColumn3 img{
+    width: 200px;
+    margin: 0px;
+    
+}
+
+.contentColumn1 a, .contentColumn2 a, .contentColumn3 a {
+    color: #4E95B7;
+}
+
+.rowContainer {
+    position: absolute;
+    top: 410px;
+    left: 0px;
+
+    width: 97%;
+    
+    border-style: solid;
+    border-width: 0px 0px 0px 0px;
+    border-color: #555;
+
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    
+    padding: 10px;
+
+    /*text-align: left;*/
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#222222');
+
+    background: -webkit-gradient(linear, left top, right top,
+            color-stop(0, #000000),
+            color-stop(1, #222222));
+
+    background: -moz-linear-gradient(left top,  #000000,  #222222);
+
+
+}
+
+.rowContainer a {
+    color: #4E95B7;
+}
+
+.rowContainer img {
+    /*max-width: 280px;*/
+}
+
+.innerContentRow {
+    position: relative;
+    border-style: solid;
+    border-color: white;
+    border-width: 0px;
+}
+
+#bottomSpacer {
+    position: relative;
+    height: 100px;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+}
+
+
+
+

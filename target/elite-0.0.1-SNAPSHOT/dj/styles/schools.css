@@ -1,0 +1,75 @@
+/* 
+    Document   : schools
+    Created on : Sep 14, 2010, 8:33:44 PM
+    Author     : jeff
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+#container {
+    position: absolute;
+    top: 10%;
+    left: 0%;
+
+    width: 97%;
+    min-height: 80%;
+
+    border-width: 1px;
+    border-style: solid;
+    border-color: #555;
+
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+
+    padding: 10px;
+
+    background: -webkit-gradient(linear, left top, right bottom,
+            color-stop(0, #000),
+            color-stop(1, #222));
+
+    background: -moz-linear-gradient(left top,  #000000,  #222222);    
+}
+
+.rowContainer {
+    position: relative;
+    top: 0%;
+    left: 0%;
+
+    padding: 5px;
+    margin: 35px 0px 0px 0px;
+
+    border-width: 0px;
+    border-style: solid;
+    border-color: #555;
+}
+
+.rowContainer .colImage {
+    float: left;
+    width: 35%;
+}
+
+.rowContainer .colText {
+    float: left;
+    width: 55%;
+}
+
+/*.rowContainer .colImage{
+    width: 300px;
+}*/
+
+.colImage img {
+    max-width: 300px;
+}
+
+.imgLeft {
+    margin: 0px 40px 10px 10px;
+}
+
+.imgRight {
+    margin: 0px 10px 10px 40px;
+}

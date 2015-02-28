@@ -1,0 +1,51 @@
+/* 
+    Document   : expanding_panel
+    Created on : Aug 25, 2010, 11:44:19 PM
+    Author     : jeff
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+.expanding_panel {
+
+    width: 800px;
+
+
+}
+
+.expanding_panel_button {
+    text-decoration: none;
+    width: 85px;
+    height: 20px;
+
+    margin: 2px;
+
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+
+    font-family: arial;
+    font-weight: bold;
+    font-size: 100%;
+    color: white;
+
+    cursor: pointer;
+    text-align: center;
+
+    background: -webkit-gradient(linear, left top, left bottom,
+            color-stop(0, #E5EDEF),
+            color-stop(0.5, #4E95B7),
+            color-stop(0.5, #5AA0C1),
+            color-stop(1, #8BB9D7));
+
+    background: -moz-linear-gradient(top,  #ec9f95,  #c93f27);
+
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -o-border-radius: 10px;
+}

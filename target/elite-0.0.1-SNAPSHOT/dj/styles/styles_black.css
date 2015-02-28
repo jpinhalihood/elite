@@ -1,0 +1,168 @@
+/*.header1 {
+  font-family: "comic sans ms", arial;
+  font-weight: 900;
+  font-size: 12pt;
+  color: white;
+}
+
+.header2
+{
+  font-family: "comic sans ms", arial;
+  font-weight: 900;
+  font-size: 75%;
+  color: white;
+}
+
+.header3 {
+  font-family: "comic sans ms", arial;
+  font-weight: 900;
+  font-size: 134%;
+  color: white;
+}
+
+.normal {
+  font-family: "comic sans ms", arial;
+  font-weight: 500;
+  font-size: 100%;
+  color: white;
+}
+
+.normalForm {
+  font-family: "comic sans ms", arial;
+  font-weight: 500;
+  font-size: 100%;
+  color: black;
+}
+
+.Link {
+  font-family: "comic sans ms", arial;
+  font-weight: 500;
+  font-size: 100%;
+  color: white;
+}
+
+.logoDJ {
+	position: relative;
+	left: 0px;
+	top: 0px;
+}
+
+.logoAVLS {
+	position: relative;
+	left: 30px;
+	top: 0px;
+}
+
+#mainPanel {
+
+    position: absolute;
+    left: 50px;
+    top: 10px;
+    
+    width: 800px;
+    height: 95%;
+
+    background-color: black;
+    
+    border-style: none;
+    border-width: 1px;
+    border-color: white;
+}
+
+#bannerPanel {
+    
+    position: relative;
+    margin: 0px;
+    border: 0px;
+    
+    top: 0px;
+    left: 0px;
+}
+
+#navPanel {
+
+    position: relative;
+    margin: 0px 0px 40px 0px;
+    
+    top: 0px;
+    left: 0px;
+    
+    border: 0px;
+
+    
+    padding-top: 2px;
+    padding-bottom: 2px;
+    
+    font-family: "comic sans ms", arial;
+    font-size: 100%;
+    font-weight: normal;
+    color: white;
+    
+    height: 20px;
+    width: 100%;
+}
+
+#contentPanel {
+
+    position: relative;
+    margin: 0px;
+    
+    top: 0px;
+    left: 0px;
+    
+    font-family: "comic sans ms", arial;
+    font-size: 100%;
+    font-weight: normal;
+    color: white;
+    
+    text-align: left;
+    
+    border-width: 1px;
+    border-color: white;
+    border-style: solid;
+    
+}
+
+#rightFloatNavPanel {
+
+    float: right;
+    margin: 10px 0px 10px 10px;
+
+    border-width: 0px;
+    border-color: white;
+    border-style: solid;
+    
+}
+
+.navImage {
+    margin: 5px 0px 5px 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+}
+
+.content {
+	border-style: solid;
+	border-color: white;
+	border-width: 0px;
+	font-family: arial;
+	font-size: 100%;
+	font-weight: 500;
+	color: white;
+}
+
+
+
+body {
+	background-color: black;
+	text-align: center;
+	margin-top: 150;	
+}
+
+a {
+    font-family: "comic sans ms", arial;
+	font-size: 100%;
+	font-weight: normal;
+    color: white;
+}*/
+

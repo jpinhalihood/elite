@@ -1,0 +1,20 @@
+.collapsableAreaPanel {
+    position: relative;
+    margin: 0px;
+    
+    top: 0px;
+    left: 0px;
+    
+    border-width: 0px;
+    border-color: white;
+    border-style: solid;
+    
+    visibility: hidden;
+    opacity: 0;
+    
+    -webkit-transition-property: visibility, height, opacity;
+    -webkit-transition-duration: 2s;
+
+    -moz-transition-property: visibility, height, opacity;
+    -moz-transition-duration: 2s;    
+}

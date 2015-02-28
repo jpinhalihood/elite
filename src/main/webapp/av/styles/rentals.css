@@ -1,0 +1,130 @@
+#screen {
+    position: absolute;
+    top: 200px;
+    left: 0px;
+
+    width: 700px;
+    height: 500px;
+    background-color: red;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+}
+
+.rentalCatNavLink {
+
+    margin: 10px 40px 10px 0px;
+    
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+
+}
+
+.scrollingPanel li, .scrollingPanel ul {
+	list-style-image: none;
+	list-style-position: outside;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.panel {
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    margin: 0px;
+    padding: 0px;
+    
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.scrollingPanel {
+    background-color: pink;
+    
+    width: 600px;
+    min-height: 400px;
+    
+    overflow: hidden;
+    overflow-x: scroll;
+}
+
+.scrollingPanelSlider {
+    width: 1838px;
+}
+
+
+.section {
+    float: left;
+    padding: 5px;
+    width: 600px;
+    min-height: 200px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: blue;
+}
+
+.sectionHeader {
+    font-family: arial;
+    font-weight: bold;
+    font-size: 12pt;
+    color: white;
+    margin: 0px;
+}
+
+.gridPanel {
+
+    max-height: 200px;
+    max-width: 400px;
+    
+    margin: 10px;
+    padding: 5px;
+    
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+}
+
+.gridPanel img {
+    border-style: none;
+    border-width: 1px;
+    border-color: white;
+    margin: 0px 0px 5px 0px;
+    
+    max-height: 130px;
+    max-weight: 300px;
+}
+
+.gridPanelHeader {
+    font-family: arial;
+    font-weight: bold;
+    font-size: 100%;
+    color: white;
+    margin: 5px;
+    text-align: center;
+}
+
+.rentalContentPanel {
+    position: absolute;
+    width: 800px;
+    background-color: white;
+
+    font-family: arial;
+    font-weight: normal;
+    font-size: 100%;
+    color: black;
+
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+
+
+    -webkit-box-shadow: 1px 5px 10px #888;
+    -moz-box-shadow: 1px 5px 10px #888;
+
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+}
