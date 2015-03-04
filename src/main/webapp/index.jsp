@@ -1,8 +1,8 @@
 <html>
-<title>Elite Disc Jockey Systems</title>
 <head>
 	<meta name="google-site-verification" content="zeL65A2Z5CWVGQxtYPimQcfS7XcvAsvc3f9lBO-7RNw" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Elite Disc Jockey Systems</title>	
 </head>
 <link rel="stylesheet" href="common/styles/styles_black.css"
     type="text/css" media="screen"/>
