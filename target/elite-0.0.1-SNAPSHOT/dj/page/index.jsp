@@ -12,7 +12,7 @@
 <div id="packageBuilderPopUp">
     <div id="packageBuilderPopUpClose"
          onClick="javascript: hidePopUp('div#packageBuilderPopUp');">
-        <img src="images/CloseButton.gif" width="17">
+        <img src="dj/images/CloseButton.gif" width="17">
     </div>
     <div id="packageBuilderPanel">
             <%@ include file="../components/page_dj_package_builder.jsp" %>
@@ -22,7 +22,7 @@
 <div id="columnContainer">
 
     <div class="contentColumn1">
-        <img src="images/SchoolsByElite.jpg"
+        <img src="dj/images/SchoolsByElite.jpg"
              class="reflect rheight33">
 	<!-- removed June 20/2011         
 	<span class="header2">School Dances Done RIGHT! Every Night!</span>
@@ -37,15 +37,16 @@
         </p>-->
 
 	<span class="header2">School Dances Done RIGHT! Night after Night!</span>
-	<p>No other DJ Company in Atlantic Canada does school dances like ELITE does! Bigger Sound, Bigger Lights, Bigger Video mean a 	better bang for your dance dollar. Don't be fooled by imitators! Your school deserves the best! 
+	<p itemscope itemtype="http://data-vocabulary.org/Organization">
+	No other DJ Company in  <span itemprop="foundingLocation">Atlantic Canada</span> does school dances like ELITE does! Bigger Sound, Bigger Lights, Bigger Video mean a 	better bang for your dance dollar. Don't be fooled by imitators! Your school deserves the best! 
 	Our School Dance Packages make it easy to turn your next school dance into a party you will Text, Twitter and Facebook about.
 	</p>
-        <p><a href="schools.jsp">Learn More ...</a></p>
+        <p><a href="dj/schools.jsp">Learn More ...</a></p>
         <div class="clearer">&nbsp;</div>
     </div>
 
     <div class="contentColumn2">
-        <img src="images/EliteU.jpg"
+        <img src="dj/images/EliteU.jpg"
              class="reflect rheight33"
              width="140" height="100">
         <p><span class="header2">Elite U: Your Party in Style</span></p>
@@ -60,12 +61,12 @@
         party/formal, there's no better way to unleash your elite inner-self!
         </p>
 
-        <p><a href="eliteu.jsp">Learn More ...</a></p>
+        <p><a href="dj/eliteu.jsp">Learn More ...</a></p>
         <div class="clearer">&nbsp;</div>
     </div>
 
     <div class="contentColumn3">
-        <img src="images/ThemePartiesByElite.jpg"
+        <img src="dj/images/ThemePartiesByElite.jpg"
              class="reflect rheight33">
 
         <span class="header2">Theme Parties: Shake your Groove Thing!</span>
@@ -88,7 +89,7 @@
         <%
             if(isMSIE) {
         %>
-        <img src="images/spacer.png"
+        <img src="dj/images/spacer.png"
              class="reflect rheight10"
              style="float: left; margin: 0px 10px 10px 10px; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/Couple.png', sizingMethod='scale');"
              width="285"
@@ -96,7 +97,7 @@
         <%
             } else {
         %>
-        <img src="images/Couple.png"
+        <img src="dj/images/Couple.png"
              class="reflect rheight10"
              style="float: left; margin: 0px 10px 10px 10px;"
              width="285"
@@ -131,14 +132,14 @@
         <%
             if(isMSIE) {
         %>
-        <img src="images/spacer.png"
+        <img src="di/images/spacer.png"
              class="reflect rheight10"
              style="float: right; margin: 0px 10px 10px 10px; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/WhiteRoses.png', sizingMethod='scale');"
              width="300" height="82">
         <%
             } else {
         %>
-        <img src="images/WhiteRoses.png"
+        <img src="dj/images/WhiteRoses.png"
              class="reflect rheight10"
              style="float: right; margin: 0px 10px 10px 10px;"
              width="300" height="82">
@@ -156,14 +157,14 @@
     </div>
 
     <div class="innerContentRow" style="top: -170px; left: 380px; width: 400px;">
-        <img src="images/VideoReflect.gif"
+        <img src="dj/images/VideoReflect.gif"
              style="float: right; margin: 0px 10px 10px 10px;"
              width="130">
 
         <p><span class="header2">Corporate Events that Lead!</span></p>
         <p>
         Whether you need a DJ, an AV technician to operate sound, lights
-        and projection systems or simply some <a href="../av/index.jsp">equipment rentals</a>
+        and projection systems or simply some <a href="av/index.jsp">equipment rentals</a>
         to supplement your special event, Elite Special Event Consultants help you
         make your special event a success by ensuring that you don&#146;t have to be worried
         about the tedious audio/visual details.
@@ -177,7 +178,7 @@
 
 
     <div class="innerContentRow" style="top: -120px; left: 0px; width: 700px;">
-        <img src="images/NightClubsByElite.jpg"
+        <img src="dj/images/NightClubsByElite.jpg"
 		style="float: left; margin: 0px 40px 10px 10px;"
              class="reflect rheight33">
         <span class="header2">Your nightclub made ELITE</span>
@@ -191,19 +192,19 @@
         they demand!-->
         An ELITE DJ can turn your establishment from LAME to INSANE!
         </p>
-        <p><a href="nightclubs.jsp">Learn More ...</a></p>
+        <p><a href="dj/nightclubs.jsp">Learn More ...</a></p>
         <div class="clearer">&nbsp;</div>
 
     </div>
 
     <div class="innerContentRow" style="top: -80px; left: 0px; width: 700px;">
         <% if (isMSIE) { %>
-        <img src="images/spacer.png"
+        <img src="dj/images/spacer.png"
              class="reflect rheight10"
              style="float: right; margin: 0px 10px 10px 10px; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/CubeTruck.png', sizingMethod='scale');"
              width="350" height="167">
         <% } else { %>
-        <img src="images/CubeTruck.png"
+        <img src="dj/images/CubeTruck.png"
              style="float: right; margin: 0px 10px 10px 40px;"
              class="reflect rheight33"
              width="350">
@@ -218,7 +219,7 @@
         <p>
         Elite is your complete solution for audio/video systems and rentals;
         in fact, many would call us experts.  Check out our
-        <a href="../av/index.jsp">Audio/Video Rental Department</a>.
+        <a href="av/index.jsp">Audio/Video Rental Department</a>.
         </p>
 
         <div class="clearer">&nbsp;</div>

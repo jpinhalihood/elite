@@ -124,6 +124,10 @@
     border-width: 1px;
 }
 
+#footer {
+	position: relative;
+	color: white;
+}
 
 
 

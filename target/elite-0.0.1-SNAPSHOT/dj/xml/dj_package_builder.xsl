@@ -6,10 +6,10 @@
     <!-- Styles and Script -->
     <link rel="stylesheet" href="../common/styles/styles_black.css" type="css/text"/>
     <link rel="stylesheet" type="text/css"
-        media="screen" href="styles/package_builder.css"/>
+        media="screen" href="dj/styles/package_builder.css"/>
 
     <script type="text/javascript"
-        src="scripts/package_builder.js"></script>
+        src="dj/scripts/package_builder.js"></script>
 
     <form id="customPkg" name="customPkg">
     <div id="packagesPanel">
@@ -51,7 +51,7 @@
                     <li><xsl:value-of select="."/></li>
                     </xsl:for-each>
                 </ul>
-                <div class="caret"><img src="images/caret.gif" width="12"/></div>
+                <div class="caret"><img src="dj/images/caret.gif" width="12"/></div>
             </xsl:element>
         </div>
         </xsl:for-each>
